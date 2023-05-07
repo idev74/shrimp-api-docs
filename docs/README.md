@@ -40,5 +40,16 @@ After you start your development server:
 2. Create a new Postman workspace, collection, and request
 3. Enter your server URL: http://localhost:3000
 4. Open the `Body` tab
-5. Open the dropdown that is set to `none` and set it to `raw` 
-6. Set the 
+5. Set the format to `raw` 
+
+![Screenshot 2023-05-07 at 11 59 36 AM](https://user-images.githubusercontent.com/77900249/236697356-c0e4a8c0-0303-4be6-82bb-41e0664025fb.png)
+
+6. Set to JSON
+
+![Screenshot 2023-05-07 at 12 01 20 PM](https://user-images.githubusercontent.com/77900249/236697435-bb417ac1-bdf3-4304-bc18-a42a119f72c5.png)
+
+7. Input your JSON data to query the database
+
+![Screenshot 2023-05-07 at 12 04 10 PM](https://user-images.githubusercontent.com/77900249/236697534-256ae7e2-a9bd-4a64-b21e-16183bf05a37.png)
+
+8. Alter the URL endpoint and request type (`GET`,`POST`,`PUT`, etc.) and submit it to CRUD the database!
