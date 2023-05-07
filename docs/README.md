@@ -1,4 +1,5 @@
 # The Shrimp API :shrimp:
+Docs Deployed [here](https://idev74.github.io/shrimp-api-docs)!
 
 > A CRUDable API based around owners and their shrimp! Users can sign up and `view`/`add`/`remove`/`edit` shrimp of their own!
 
