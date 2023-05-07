@@ -1,3 +1,3 @@
-# Headline
+# The Shrimp API :shrimp:
 
-> An awesome project.
+> A CRUDable API based around owners and their shrimp!
