@@ -19,6 +19,7 @@ Project features & Requirements
 - Test-driven
 - Follows Airbnb Style Guide
 - Features `GET`, `POST`, `PUT`, and `DELETE` endpoints
+- User & Shrimp models
 
 ## Installation
 
@@ -52,4 +53,4 @@ After you start your development server:
 
 ![Screenshot 2023-05-07 at 12 04 10 PM](https://user-images.githubusercontent.com/77900249/236697534-256ae7e2-a9bd-4a64-b21e-16183bf05a37.png)
 
-8. Alter the URL endpoint and request type (`GET`,`POST`,`PUT`, etc.) and submit it to CRUD the database!
+**8. Alter the URL endpoint, request type, (`GET`,`POST`,`PUT`, etc.) and submit it to CRUD the database!**
